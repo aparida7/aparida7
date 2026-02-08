@@ -23,7 +23,7 @@ Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast.
   - Courses: Statistics, Mathematics, Particle Physics
 
 ## Professional Experience 💼
-- **Texas Capital Bank** - Data Science Analyst, Consumer Analytics
+- **Texas Capital Bank** - Data Scientist, Consumer Analytics
 - **Deloitte Digital** - Business Analyst, CRM Division
 - **Tata Consultancy Services** - Business Analyst
 
